@@ -1,0 +1,17 @@
+# OS-specifiek
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Power BI tijdelijke bestanden
+*.pbix.tmp
+~$*.pbix
+
+# Tabular Editor / DAX Studio caches
+*.bim.bak
+.local-config.json
